@@ -2,7 +2,7 @@ import torch_optimizer
 from easydict import EasyDict as edict
 from torch import optim
 
-from backbone import conv64F, resnet12, resnet18
+from backbone import resnet18
 
 
 def select_optimizer(opt_name, lr, model, sched_name="cos"):
@@ -36,13 +36,7 @@ def select_optimizer(opt_name, lr, model, sched_name="cos"):
 
 
 def select_model(model_name, ):
-    if model_name == 'Conv64F':
-        model = conv64F.Conv64F()
-        dim = 1600
-    elif model_name == 'resnet12':
-        model = resnet12.resnet12()
-        dim = 640
-    elif model_name == 'resnet18':
+    if model_name == 'resnet18':
         model = resnet18.resnet18()
         dim = 512
 

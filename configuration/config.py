@@ -26,7 +26,7 @@ def base_parser():
 
     # Model
     parser.add_argument(
-        "--model_name", type=str, default="resnet18", help="[Conv64F, resnet12, resnet18]"  
+        "--model_name", type=str, default="resnet18", help="[resnet18, resnet32]"  
     )
 
     # Train
