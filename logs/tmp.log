@@ -1,0 +1,24 @@
+[INFO] main.py:87 > set train/test datalist for the current task!
+[INFO] finetune.py:98 > Apply before_task
+[INFO] finetune.py:102 > Increasing fc layer:  0  ---->  2
+[INFO] finetune.py:121 > Reset the optimizer and scheduler states
+[INFO] finetune.py:127 > ##########Start Training##########
+[INFO] finetune.py:134 > New training samples: 1000
+[INFO] finetune.py:135 > In-memory samples: 0
+[INFO] finetune.py:136 > Train samples: 1000
+[INFO] finetune.py:137 > Test samples: 200
+[INFO] finetune.py:171 > Task 0 | Epoch 1/2 | lr 0.1000 | train_loss 0.9795 | train_acc 0.6429 | test_loss 2521.7156 | test_acc 0.5000 |
+[INFO] finetune.py:171 > Task 0 | Epoch 2/2 | lr 0.1000 | train_loss 1.6535 | train_acc 0.6585 | test_loss 5825.6773 | test_acc 0.4950 |
+[INFO] main.py:87 > set train/test datalist for the current task!
+[INFO] finetune.py:98 > Apply before_task
+[INFO] finetune.py:102 > Increasing fc layer:  2  ---->  12
+[INFO] finetune.py:121 > Reset the optimizer and scheduler states
+[INFO] finetune.py:127 > ##########Start Training##########
+[INFO] finetune.py:134 > New training samples: 5000
+[INFO] finetune.py:135 > In-memory samples: 500
+[INFO] finetune.py:136 > Train samples: 5500
+[INFO] finetune.py:137 > Test samples: 1200
+[INFO] finetune.py:171 > Task 1 | Epoch 1/2 | lr 0.1000 | train_loss 3.1322 | train_acc 0.2247 | test_loss 4.5544 | test_acc 0.2167 |
+[INFO] finetune.py:171 > Task 1 | Epoch 2/2 | lr 0.1000 | train_loss 2.2802 | train_acc 0.3199 | test_loss 2.2681 | test_acc 0.2658 |
+[INFO] main.py:109 > ======== Summary =======
+[INFO] main.py:110 > A_last 0.2658333333333333
