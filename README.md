@@ -43,7 +43,7 @@
     CIFAR10:
     https://drive.google.com/file/d/1NwHL_yBFXiHHp-lFwQZlMmR5ekxmjd4Q/view?usp=sharing
     CIFAR100:
-    https://drive.google.com/file/d/1NwHL_yBFXiHHp-lFwQZlMmR5ekxmjd4Q/view?usp=sharing
+    https://drive.google.com/file/d/1xABKaQlqIvBncK94baXLC2fo-8C5m366/view?usp=sharing
 
 ## 5. 关于代码
     需要的backbone或者优化器框架中没有实现，可以考虑自己实现或者用框架中提供的代替。
