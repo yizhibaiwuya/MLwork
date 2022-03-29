@@ -46,7 +46,7 @@
     https://drive.google.com/file/d/1xABKaQlqIvBncK94baXLC2fo-8C5m366/view?usp=sharing
 
 ## 5. 关于代码
-    需要的backbone或者优化器框架中没有实现，可以考虑自己实现或者用框架中提供的代替。
+    需要的backbone或者优化器框架中没有实现，可以考虑自己实现或者用框架中提供的代替。 （如修改了框架请在最终实验报告中说明）
 
     要实现的方法里的一些功能，可能框架现有的代码不能实现，因此可以适当的修改框架代码。
 
